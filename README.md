@@ -20,6 +20,6 @@ Welcome to the ONNX Runtime WebGPU demo repository! This repository contains var
 
 ## How to Test
 
-To test these demos, please visit the [ONNX Runtime WebGPU demo page](https://leestott.github.io/OnnxRuntime-webgpu/).
+To test these demos, please visit the [ONNX Runtime WebGPU demo page](https://roryp.github.io/OnnxRuntime-webgpu/).
 
 Enjoy exploring the power of ONNX Runtime with WebGPU!
