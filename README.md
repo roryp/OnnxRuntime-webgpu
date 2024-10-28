@@ -7,7 +7,6 @@ Welcome to the ONNX Runtime WebGPU demo repository! This repository contains var
 - **Stable Diffusion Turbo**
 - **Segment Anything**
 - **Phi3-mini**
-- **TinyLlama**
 - **YoloV9**
 
 ### Overview of ONNX Runtime
