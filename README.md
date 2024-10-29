@@ -4,10 +4,10 @@ Welcome to the ONNX Runtime WebGPU demo repository! This repository contains var
 
 ## Contents
 
-- **Stable Diffusion Turbo**
-- **Segment Anything**
-- **Phi3-mini**
-- **YoloV9**
+- **Stable Diffusion Turbo**: A high-performance implementation of the Stable Diffusion model.
+- **Segment Anything**: A project focused on image segmentation tasks.
+- **Phi3-mini**: A lightweight version of the Phi3 model.
+- **YoloV9**: The ninth iteration of the You Only Look Once (YOLO) object detection model.
 
 ### Overview of ONNX Runtime
 
